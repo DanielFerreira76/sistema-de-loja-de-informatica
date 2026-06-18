@@ -1,27 +1,37 @@
-# sistema-de-loja-de-informatica
+# 🖥️ Sistema de Loja de Informática
 
-Projeto acadêmico em C para gerenciamento de uma loja de informática, incluindo cadastro de clientes, fornecedores e produtos, registro de vendas e relatórios de desempenho.
+Projeto acadêmico desenvolvido em **linguagem C** para gerenciamento de uma loja de informática, incluindo cadastro de clientes, fornecedores e produtos, registro de vendas, controle de garantias e geração de relatórios de desempenho.
+
+---
 
 ## 🚀 Tecnologias utilizadas
-- C
-- GCC (compilador)
-- VS Code
+
+* Linguagem C
+* GCC (compilador)
+* Visual Studio Code
+
+---
 
 ## ⚙️ Funcionalidades
 
-- Cadastro de clientes
-- Fornecedores e produtos
-- Registro de vendas
-- Relatórios de desempenho
+* Cadastro de clientes
+* Cadastro de fornecedores
+* Cadastro de produtos
+* Registro de vendas
+* Controle de garantias
+* Relatórios de desempenho
 
-##🖼️ Interface do sistema
+---
+
+## 🖼️ Interface do sistema
 
 O sistema funciona através de menus interativos no terminal.
 
-##🏠 Menu Principal
+### 🏠 Menu Principal
 
 Ao iniciar o programa, o usuário encontra as seguintes opções:
 
+```text
 ==================================
   SISTEMA DE LOJA DE INFORMÁTICA
 ==================================
@@ -33,12 +43,15 @@ Ao iniciar o programa, o usuário encontra as seguintes opções:
 5 - Garantias
 6 - Relatórios
 7 - Encerrar Programa
+```
 
-##👤 Módulo Clientes
+---
+
+## 👤 Módulo Clientes
 
 Permite gerenciar os clientes cadastrados.
 
-Funcionalidades:
+```text
 ==================================
              Clientes
 ==================================
@@ -48,19 +61,22 @@ Funcionalidades:
 3 - Alterar
 4 - Excluir
 5 - Sair
-
+```
 
 O usuário pode:
 
-- Cadastrar novos clientes;
-- Buscar clientes por nome ou ID;
-- Alterar informações;
-- Excluir clientes.
+* Cadastrar novos clientes;
+* Buscar clientes por nome ou ID;
+* Alterar informações;
+* Excluir clientes.
 
-##📦 Módulo Produtos
+---
+
+## 📦 Módulo Produtos
 
 Permite controlar os produtos da loja.
 
+```text
 ==================================
              Produtos
 ==================================
@@ -71,28 +87,32 @@ Permite controlar os produtos da loja.
 4 - Alterar Preço
 5 - Excluir Produto
 6 - Sair
+```
 
 O usuário pode:
 
-- Cadastrar produtos;
-- Consultar o estoque;
-- Buscar produtos;
-- Alterar preços;
-- Excluir produtos.
+* Cadastrar produtos;
+* Consultar o estoque;
+* Buscar produtos;
+* Alterar preços;
+* Excluir produtos.
 
 Cada produto possui:
 
-ID;
-Nome;
-Preço;
-Quantidade em estoque;
-Fornecedor;
-Garantia.
+* ID
+* Nome
+* Preço
+* Quantidade em estoque
+* Fornecedor
+* Garantia
 
-##🏭 Módulo Fornecedores
+---
+
+## 🏭 Módulo Fornecedores
 
 Gerencia os fornecedores cadastrados.
 
+```text
 ==================================
            Fornecedores
 ==================================
@@ -102,18 +122,22 @@ Gerencia os fornecedores cadastrados.
 3 - Buscar
 4 - Alterar
 5 - Sair
+```
 
 Funcionalidades:
 
-- Cadastrar fornecedores;
-- Listar fornecedores;
-- Buscar por nome ou ID;
-- Alterar informações.
+* Cadastrar fornecedores;
+* Listar fornecedores;
+* Buscar por nome ou ID;
+* Alterar informações.
 
-🛒 Módulo Vendas
+---
+
+## 🛒 Módulo Vendas
 
 Responsável pelo processo de venda.
 
+```text
 ==================================
               Vendas
 ==================================
@@ -122,19 +146,23 @@ Responsável pelo processo de venda.
 2 - Ver venda atual
 3 - Finalizar venda
 4 - Sair
+```
 
 O sistema permite:
 
-- Selecionar um cliente;
-- Adicionar produtos à venda;
-- Controlar o estoque automaticamente;
-- Calcular o valor total da compra;
-- Finalizar a venda.
+* Selecionar um cliente;
+* Adicionar produtos à venda;
+* Controlar o estoque automaticamente;
+* Calcular o valor total da compra;
+* Finalizar a venda.
 
-##🛡️ Módulo Garantias
+---
+
+## 🛡️ Módulo Garantias
 
 Gerencia as garantias dos produtos.
 
+```text
 ==================================
              Garantia
 ==================================
@@ -143,18 +171,21 @@ Gerencia as garantias dos produtos.
 2 - Consultar garantia
 3 - Encerrar garantia
 4 - Sair
+```
 
 Funcionalidades:
 
-- Alterar a garantia de um produto;
-- Consultar a garantia;
-- Encerrar a garantia.
+* Alterar a garantia de um produto;
+* Consultar a garantia;
+* Encerrar a garantia.
 
+---
 
-##📊 Módulo Relatórios
+## 📊 Módulo Relatórios
 
 Exibe informações importantes sobre a loja.
 
+```text
 ==================================
             Relatórios
 ==================================
@@ -166,28 +197,28 @@ Exibe informações importantes sobre a loja.
 5 - Clientes que mais compraram
 6 - Produtos
 7 - Voltar ao menu principal
-
-
+```
 
 O usuário pode visualizar:
 
-- Produto mais vendido;
-- Produtos com estoque baixo;
-- Total de vendas realizadas;
-- Faturamento total;
-- Cliente que mais comprou;
-- Lista de produtos cadastrados.
+* Produto mais vendido;
+* Produtos com estoque baixo;
+* Total de vendas realizadas;
+* Faturamento total;
+* Cliente que mais comprou;
+* Lista de produtos cadastrados.
 
+---
 
 ## 📦 Como executar
 
-1. Clone o repositório:
+### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/DanielFerreira76/lojainfor.c.git
 ```
 
-### 2. Entre na pasta
+### 2. Entre na pasta do projeto
 
 ```bash
 cd sistema-de-loja-de-informatica
@@ -199,7 +230,7 @@ cd sistema-de-loja-de-informatica
 gcc lojainfor.c -o lojainfor
 ```
 
-### 4. Execute
+### 4. Execute o programa
 
 No Windows:
 
@@ -213,50 +244,58 @@ No Linux ou macOS:
 ./lojainfor
 ```
 
-### Estrutura do Projeto
+---
 
+## 📁 Estrutura do projeto
+
+```text
 📦 sistema-de-loja-de-informatica
- ├── .gitattributes
- ├── LICENSE
- ├── README.md
- └── lojainfor.c
+├── .gitattributes
+├── LICENSE
+├── README.md
+└── lojainfor.c
+```
+
+---
 
 ## 📝 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguintes conceitos:
 
-- Estruturas (`struct`) para organizar clientes, produtos, fornecedores e vendas.
-- Estruturas de repetição (`while` e `for`) para criação dos menus e percorrer os dados cadastrados.
-- Estruturas condicionais (`if` e `else`) para validação das opções e controle do fluxo do programa.
-- Manipulação de strings utilizando funções da biblioteca `string.h`.
-- Utilização de vetores para armazenar os registros do sistema.
-- Implementação das operações CRUD (Cadastrar, Buscar, Alterar e Excluir).
-- Controle de estoque, vendas e faturamento.
-- Validação de entradas do usuário para evitar erros de utilização.
-- Organização e desenvolvimento de um sistema completo em linguagem C.
-- Boas práticas de programação e lógica computacional.
+* Estruturas (`struct`) para organizar clientes, produtos, fornecedores e vendas;
+* Estruturas de repetição (`while` e `for`);
+* Estruturas condicionais (`if` e `else`);
+* Manipulação de strings utilizando a biblioteca `string.h`;
+* Utilização de vetores para armazenar registros;
+* Implementação das operações CRUD (Cadastrar, Buscar, Alterar e Excluir);
+* Controle de estoque, vendas e faturamento;
+* Validação de entradas do usuário;
+* Organização e desenvolvimento de um sistema completo em linguagem C;
+* Boas práticas de programação e lógica computacional.
+
+---
 
 ## 👨‍🏫 Orientador
-Hudson Neves - https://github.com/HudsonNeves
+
+Hudson Neves
+
+GitHub: https://github.com/HudsonNeves
+
+---
 
 ## 👨‍💻 Autores
 
-Daniel Ferreira Vieira - https://github.com/DanielFerreira76
+* Daniel Ferreira Vieira — https://github.com/DanielFerreira76
+* Denzel Luiz Sousa e Silva — https://github.com/Poluxzz
+* Felipe Oliveira Veras
+* Ítalo Rodrigues dos Santos
+* Carlos Aparecido Pires dos Anjos
+* Cleber Junio da Silva Souza
+* Alexandre Brito Vasco de Oliveira
+* Gabriel Barbosa Luiz
 
-Denzel Luiz Sousa e Silva - https://github.com/Poluxzz
+---
 
-Felipe Oliveira Veras - 
+## 🔗 Repositório
 
-Ítalo Rodrigues dos Santos -
-
-Carlos Aparecido Pires dos Anjos -
-
-Cleber Junio da Silva Souza -
-
-Alexandre Brito Vasco de Oliveira -
-
-Gabriel Barbosa Luiz -
-
-
-
-GitHub: https://github.com/DanielFerreira76
+https://github.com/DanielFerreira76
