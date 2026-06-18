@@ -287,12 +287,12 @@ GitHub: https://github.com/HudsonNeves
 
 * Daniel Ferreira Vieira — https://github.com/DanielFerreira76
 * Denzel Luiz Sousa e Silva — https://github.com/Poluxzz
-* Felipe Oliveira Veras
-* Ítalo Rodrigues dos Santos
-* Carlos Aparecido Pires dos Anjos
-* Cleber Junio da Silva Souza
-* Alexandre Brito Vasco de Oliveira
-* Gabriel Barbosa Luiz
+* Felipe Oliveira Veras — https://github.com/FelipeVeras77
+* Ítalo Rodrigues dos Santos — https://github.com/italolifts
+* Carlos Aparecido Pires dos Anjos — https://github.com/Carl-angels
+* Cleber Junio da Silva Souza —  https://github.com/5cleber8428-cloud
+* Alexandre Brito Vasco de Oliveira — https://github.com/alexandreoliveira74
+* Gabriel Barbosa Luiz — https://github.com/gabrielbluiz9-ux
 
 ---
 
