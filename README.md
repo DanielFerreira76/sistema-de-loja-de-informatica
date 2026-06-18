@@ -71,6 +71,9 @@ Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguin
 - Organização e desenvolvimento de um sistema completo em linguagem C.
 - Boas práticas de programação e lógica computacional.
 
+## 👨‍🏫 Orientador
+Hudson Neves - https://github.com/HudsonNeves
+
 ## 👨‍💻 Autores
 
 Daniel Ferreira Vieira
@@ -81,5 +84,7 @@ Carlos Aparecido Pires dos Anjos
 Cleber Junio da Silva Souza
 Alexandre Brito Vasco de Oliveira
 Gabriel Barbosa Luiz
+
+
 
 GitHub: https://github.com/DanielFerreira76
