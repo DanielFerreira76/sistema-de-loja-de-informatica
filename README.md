@@ -25,7 +25,7 @@ git clone https://github.com/DanielFerreira76/lojainfor.c.git
 ### 2. Entre na pasta
 
 ```bash
-cd sisitema-de-loja-de-informatica
+cd sistema-de-loja-de-informatica
 ```
 
 ### 3. Compile o programa
@@ -50,7 +50,7 @@ No Linux ou macOS:
 
 ### Estrutura do Projeto
 
-📦 sisitema-de-loja-de-informatica
+📦 sistema-de-loja-de-informatica
  ├── .gitattributes
  ├── LICENSE
  ├── README.md
@@ -76,14 +76,14 @@ Hudson Neves - https://github.com/HudsonNeves
 
 ## 👨‍💻 Autores
 
-Daniel Ferreira Vieira
-Denzel Luiz Sousa e Silva
-Felipe Oliveira Veras
-Ítalo Rodrigues dos Santos
-Carlos Aparecido Pires dos Anjos
-Cleber Junio da Silva Souza
-Alexandre Brito Vasco de Oliveira
-Gabriel Barbosa Luiz
+Daniel Ferreira Vieira - https://github.com/DanielFerreira76
+Denzel Luiz Sousa e Silva - https://github.com/Poluxzz
+Felipe Oliveira Veras - 
+Ítalo Rodrigues dos Santos -
+Carlos Aparecido Pires dos Anjos -
+Cleber Junio da Silva Souza -
+Alexandre Brito Vasco de Oliveira -
+Gabriel Barbosa Luiz -
 
 
 
