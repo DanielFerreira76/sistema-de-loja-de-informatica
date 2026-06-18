@@ -14,11 +14,11 @@ Projeto acadêmico em C para gerenciamento de uma loja de informática, incluind
 - Registro de vendas
 - Relatórios de desempenho
 
-🖼️ Interface do sistema
+##🖼️ Interface do sistema
 
 O sistema funciona através de menus interativos no terminal.
 
-🏠 Menu Principal
+##🏠 Menu Principal
 
 Ao iniciar o programa, o usuário encontra as seguintes opções:
 
@@ -34,7 +34,7 @@ Ao iniciar o programa, o usuário encontra as seguintes opções:
 6 - Relatórios
 7 - Encerrar Programa
 
-👤 Módulo Clientes
+##👤 Módulo Clientes
 
 Permite gerenciar os clientes cadastrados.
 
@@ -57,7 +57,7 @@ O usuário pode:
 - Alterar informações;
 - Excluir clientes.
 
-📦 Módulo Produtos
+##📦 Módulo Produtos
 
 Permite controlar os produtos da loja.
 
@@ -89,7 +89,7 @@ Quantidade em estoque;
 Fornecedor;
 Garantia.
 
-🏭 Módulo Fornecedores
+##🏭 Módulo Fornecedores
 
 Gerencia os fornecedores cadastrados.
 
@@ -131,7 +131,7 @@ O sistema permite:
 - Calcular o valor total da compra;
 - Finalizar a venda.
 
-🛡️ Módulo Garantias
+##🛡️ Módulo Garantias
 
 Gerencia as garantias dos produtos.
 
@@ -151,7 +151,7 @@ Funcionalidades:
 - Encerrar a garantia.
 
 
-📊 Módulo Relatórios
+##📊 Módulo Relatórios
 
 Exibe informações importantes sobre a loja.
 
