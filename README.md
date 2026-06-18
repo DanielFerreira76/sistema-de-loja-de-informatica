@@ -31,7 +31,7 @@ cd sisitema-de-loja-de-informatica
 ### 3. Compile o programa
 
 ```bash
-gcc main.c -o lojainfor.c
+gcc lojainfor.c -o lojainfor
 ```
 
 ### 4. Execute
@@ -39,13 +39,13 @@ gcc main.c -o lojainfor.c
 No Windows:
 
 ```bash
-lojainfor.c.exe
+lojainfor.exe
 ```
 
 No Linux ou macOS:
 
 ```bash
-./lojainfor.c
+./lojainfor
 ```
 
 ### Estrutura do Projeto
