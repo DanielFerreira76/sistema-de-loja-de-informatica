@@ -1,10 +1,10 @@
-# 🖥️ Sistema de Loja de Informática
+# Sistema de Loja de Informática
 
 Projeto acadêmico desenvolvido em **linguagem C** para gerenciamento de uma loja de informática, incluindo cadastro de clientes, fornecedores e produtos, registro de vendas, controle de garantias e geração de relatórios de desempenho.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Linguagem C
 * GCC (compilador)
@@ -12,7 +12,7 @@ Projeto acadêmico desenvolvido em **linguagem C** para gerenciamento de uma loj
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 * Cadastro de clientes
 * Cadastro de fornecedores
@@ -23,11 +23,11 @@ Projeto acadêmico desenvolvido em **linguagem C** para gerenciamento de uma loj
 
 ---
 
-## 🖼️ Interface do sistema
+## Interface do sistema
 
 O sistema funciona através de menus interativos no terminal.
 
-### 🏠 Menu Principal
+### Menu Principal
 
 Ao iniciar o programa, o usuário encontra as seguintes opções:
 
@@ -47,7 +47,7 @@ Ao iniciar o programa, o usuário encontra as seguintes opções:
 
 ---
 
-## 👤 Módulo Clientes
+## Módulo Clientes
 
 Permite gerenciar os clientes cadastrados.
 
@@ -72,7 +72,7 @@ O usuário pode:
 
 ---
 
-## 📦 Módulo Produtos
+## Módulo Produtos
 
 Permite controlar os produtos da loja.
 
@@ -108,7 +108,7 @@ Cada produto possui:
 
 ---
 
-## 🏭 Módulo Fornecedores
+## Módulo Fornecedores
 
 Gerencia os fornecedores cadastrados.
 
@@ -133,7 +133,7 @@ Funcionalidades:
 
 ---
 
-## 🛒 Módulo Vendas
+## Módulo Vendas
 
 Responsável pelo processo de venda.
 
@@ -158,7 +158,7 @@ O sistema permite:
 
 ---
 
-## 🛡️ Módulo Garantias
+## Módulo Garantias
 
 Gerencia as garantias dos produtos.
 
@@ -181,7 +181,7 @@ Funcionalidades:
 
 ---
 
-## 📊 Módulo Relatórios
+## Módulo Relatórios
 
 Exibe informações importantes sobre a loja.
 
@@ -210,7 +210,7 @@ O usuário pode visualizar:
 
 ---
 
-## 📦 Como executar
+## Como executar
 
 ### 1. Clone o repositório
 
@@ -246,10 +246,10 @@ No Linux ou macOS:
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
-📦 sistema-de-loja-de-informatica
+sistema-de-loja-de-informatica
 ├── .gitattributes
 ├── LICENSE
 ├── README.md
@@ -258,7 +258,7 @@ No Linux ou macOS:
 
 ---
 
-## 📝 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguintes conceitos:
 
@@ -275,7 +275,7 @@ Durante o desenvolvimento deste projeto, foram aplicados e aprimorados os seguin
 
 ---
 
-## 👨‍🏫 Orientador
+## Orientador
 
 Hudson Neves
 
@@ -283,7 +283,7 @@ GitHub: https://github.com/HudsonNeves
 
 ---
 
-## 👨‍💻 Autores
+## Autores
 
 * Daniel Ferreira Vieira — https://github.com/DanielFerreira76
 * Denzel Luiz Sousa e Silva — https://github.com/Poluxzz
@@ -296,6 +296,6 @@ GitHub: https://github.com/HudsonNeves
 
 ---
 
-## 🔗 Repositório
+## Repositório
 
-https://github.com/DanielFerreira76
+https://github.com/DanielFerreira76/sistema-de-loja-de-informatica
